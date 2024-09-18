@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour, je suis Naïma<br>👀 J'aime cuisiner et les moments simple de la vie <br>🌱 J'apprends actuellement à devenir développeuse Full Stack !<br>📫 Comment me joindre : https://www.linkedin.com/in/naima-lalmi/<br>⚡ Anecdote  : J'imite très bien Dalida
+👋 Bonjour, je suis Naïma<br>👀  J'aime cuisiner et les moments simple de la vie <br>🌱 J'apprends actuellement à devenir développeuse Full Stack !<br>📫 Comment me joindre : https://www.linkedin.com/in/naima-lalmi/<br>⚡ Anecdote  : J'imite très bien Dalida
 
 
 ## 🌐 Socials:
